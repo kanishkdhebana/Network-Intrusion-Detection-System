@@ -1,4 +1,4 @@
-# Cybersecurity-Anomaly-Detectrion
+# Network Intrusion Detection System 
 
 This project implements a Network Intrusion Detection System (NIDS) using a deep learning approach. The system utilizes a Multi-Input Attention-based LSTM model to analyze network traffic data from the UNSW-NB15 dataset and classify it as either benign or malicious.
 
