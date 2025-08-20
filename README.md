@@ -37,12 +37,12 @@ The UNSW-NB15 dataset is used in this project. It can be obtained from [www.kagg
 # Benchmarks
 The model was evaluated on the test set, achieving the following key performance metrics:
 
-- Accuracy: 0.8266
-- Precision: 0.7681
-- Recall: 0.9813
-- F1-score: 0.8617
-- AUC-ROC: 0.9552
-- AUC-PR: 0.9651
-- Specificity (True Negative Rate): 0.6370
+- Accuracy: 0.8255
+- Precision: 0.7655
+- Recall: 0.9847
+- F1-score: 0.8614
+- AUC-ROC: 0.9557
+- AUC-PR: 0.9661
+- Specificity (True Negative Rate): 0.6304
 
 ---
